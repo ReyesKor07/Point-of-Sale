@@ -16,3 +16,4 @@ C:\Users\Usuario\OneDrive - Universidad Autónoma de Tamaulipas\Programas C# - V
 C:\Users\Usuario\OneDrive - Universidad Autónoma de Tamaulipas\Programas C# - Visual Studio\Proyecto\Punto de Venta\1.-Presentación\obj\Debug\net6.0-windows\1.-Presentación.pdb
 C:\Users\Usuario\OneDrive - Universidad Autónoma de Tamaulipas\Programas C# - Visual Studio\Proyecto\Punto de Venta\1.-Presentación\obj\Debug\net6.0-windows\1.-Presentación.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive - Universidad Autónoma de Tamaulipas\Programas C# - Visual Studio\Proyecto\Punto de Venta\1.-Presentación\obj\Debug\net6.0-windows\ref\1.-Presentación.dll
+C:\Users\Usuario\OneDrive - Universidad Autónoma de Tamaulipas\Programas C# - Visual Studio\Proyecto\Punto de Venta\1.-Presentación\obj\Debug\net6.0-windows\_1._Presentación.Productos.resources
