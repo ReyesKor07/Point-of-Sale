@@ -1,1 +1,1 @@
-# Proyecto - Punto de Venta
+# Project - Point of Sale
