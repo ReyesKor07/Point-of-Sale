@@ -1,0 +1,10 @@
+C:\Point-of-Sale\Point-of-Sale\bin\Debug\Point-of-Sale.exe.config
+C:\Point-of-Sale\Point-of-Sale\bin\Debug\Point-of-Sale.exe
+C:\Point-of-Sale\Point-of-Sale\bin\Debug\Point-of-Sale.pdb
+C:\Point-of-Sale\Point-of-Sale\obj\Debug\Point-of-Sale.csproj.AssemblyReference.cache
+C:\Point-of-Sale\Point-of-Sale\obj\Debug\Point_of_Sale.Form1.resources
+C:\Point-of-Sale\Point-of-Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+C:\Point-of-Sale\Point-of-Sale\obj\Debug\Point-of-Sale.csproj.GenerateResource.cache
+C:\Point-of-Sale\Point-of-Sale\obj\Debug\Point-of-Sale.csproj.CoreCompileInputs.cache
+C:\Point-of-Sale\Point-of-Sale\obj\Debug\Point-of-Sale.exe
+C:\Point-of-Sale\Point-of-Sale\obj\Debug\Point-of-Sale.pdb

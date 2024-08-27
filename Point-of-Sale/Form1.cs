@@ -21,5 +21,10 @@ namespace Point_of_Sale
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hola puñetin");
+        }
     }
 }

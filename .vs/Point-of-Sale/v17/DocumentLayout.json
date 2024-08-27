@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Point-of-Sale\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BA86D98-0071-49F2-BC2E-E0F049384654}|Point-of-Sale\\Point-of-Sale.csproj|c:\\point-of-sale\\point-of-sale\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BA86D98-0071-49F2-BC2E-E0F049384654}|Point-of-Sale\\Point-of-Sale.csproj|solutionrelative:point-of-sale\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BA86D98-0071-49F2-BC2E-E0F049384654}|Point-of-Sale\\Point-of-Sale.csproj|C:\\Point-of-Sale\\point-of-sale\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BA86D98-0071-49F2-BC2E-E0F049384654}|Point-of-Sale\\Point-of-Sale.csproj|solutionrelative:point-of-sale\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BA86D98-0071-49F2-BC2E-E0F049384654}|Point-of-Sale\\Point-of-Sale.csproj|c:\\point-of-sale\\point-of-sale\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7BA86D98-0071-49F2-BC2E-E0F049384654}|Point-of-Sale\\Point-of-Sale.csproj|solutionrelative:point-of-sale\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7BA86D98-0071-49F2-BC2E-E0F049384654}|Point-of-Sale\\Point-of-Sale.csproj|c:\\point-of-sale\\point-of-sale\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA86D98-0071-49F2-BC2E-E0F049384654}|Point-of-Sale\\Point-of-Sale.csproj|solutionrelative:point-of-sale\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Point-of-Sale\\Point-of-Sale\\Form1.cs",
               "RelativeDocumentMoniker": "Point-of-Sale\\Form1.cs",
               "ToolTip": "C:\\Point-of-Sale\\Point-of-Sale\\Form1.cs",
               "RelativeToolTip": "Point-of-Sale\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAewBoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-24T05:58:57.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Point-of-Sale\\Point-of-Sale\\Form1.cs",
               "RelativeDocumentMoniker": "Point-of-Sale\\Form1.cs",
