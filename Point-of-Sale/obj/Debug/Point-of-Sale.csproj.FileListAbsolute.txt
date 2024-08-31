@@ -18,3 +18,7 @@ C:\Users\Admin\Source\Repos\Point-of-Sale\Point-of-Sale\obj\Debug\Point-of-Sale.
 C:\Users\Admin\Source\Repos\Point-of-Sale\Point-of-Sale\obj\Debug\Point-of-Sale.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Source\Repos\Point-of-Sale\Point-of-Sale\obj\Debug\Point-of-Sale.exe
 C:\Users\Admin\Source\Repos\Point-of-Sale\Point-of-Sale\obj\Debug\Point-of-Sale.pdb
+C:\Point-of-Sale\Point-of-Sale\bin\Debug\BD_pointofsale.db
+C:\Point-of-Sale\Point-of-Sale\bin\Debug\System.Data.SQLite.dll
+C:\Point-of-Sale\Point-of-Sale\bin\Debug\System.Data.SQLite.xml
+C:\Point-of-Sale\Point-of-Sale\obj\Debug\Point-of.BF8FCE5A.Up2Date
